@@ -5,7 +5,7 @@ Web app for time tracking manufacturing orders in production
 
 - Improved productivity and efficiency of manufactured products for company
 
-- Tracks Area, Employee, Total work time, Current work time in Area, Initial Start time, Start and Stop times
+- Tracks Area, Employee, Total work time, Current work time in Area, Initial Start time, Start and Stop times, Logged in user
 
 - Logs every Start and Stop press in separate table
 
